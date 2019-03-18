@@ -1,0 +1,12 @@
+#imagenComunidad{
+    border: 1px solid black;
+}
+
+.caras{
+    width: 25px;
+    height: 25px;
+}
+
+.negrita{
+    font-weight: bold !important;
+}
